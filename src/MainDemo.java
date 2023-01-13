@@ -5,5 +5,10 @@ public class MainDemo {
 		
 		System.out.println("GitHub");
 	}
+	
+	public static void add(int a, int b) {
+		
+		System.out.println(a + b);
+	}
 
 }
