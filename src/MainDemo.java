@@ -29,8 +29,5 @@ public class MainDemo {
 
 	}
 
-	public static void addByHundred(int a, int b) {
-
-		System.out.println(a + b + 100);
-	}
+	
 }
