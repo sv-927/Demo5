@@ -27,13 +27,10 @@ public class MainDemo {
 
 		return a * b;
 
-<<<<<<< HEAD
 	}
-=======
-}
-	public static void addByHundred(int a, int b){
-		
+
+	public static void addByHundred(int a, int b) {
+
 		System.out.println(a + b + 100);
-}
->>>>>>> branch 'master' of https://github.com/sv-927/Demo5.git
+	}
 }
