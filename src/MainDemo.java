@@ -28,4 +28,8 @@ public class MainDemo {
 		return a * b;
 
 }
+	public static void addByHundred(int a, int b){
+		
+		System.out.println(a + b + 100);
+}
 }
